@@ -15,7 +15,7 @@
    viewBox="0 0 674.87311 334.51624"
    width="674.87311pt"
    id="svg11610"
-   sodipodi:docname="github-anyroot-python-machinelearning-uproot.svg"
+   sodipodi:docname="05-github-anyroot-python-machinelearning-uproot.svg"
    inkscape:version="0.92.1 r15371">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -31,8 +31,8 @@
      id="namedview11612"
      showgrid="false"
      inkscape:zoom="1.6388889"
-     inkscape:cx="499.38048"
-     inkscape:cy="252.02486"
+     inkscape:cx="355.68557"
+     inkscape:cy="249.58418"
      inkscape:window-x="210"
      inkscape:window-y="102"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
             <dc:title>Matplotlib v3.3.0, https://matplotlib.org/</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2903,7 +2903,12 @@
              style="line-height:1.04999995;text-align:end;text-anchor:end;fill:#9467bd;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
              x="715.72491"
              y="273.43713"
-             id="tspan12617">learning</tspan></text>
+             id="tspan12617">learning</tspan><tspan
+             sodipodi:role="line"
+             style="line-height:1.04999995;text-align:end;text-anchor:end;fill:#9467bd;fill-opacity:1;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+             x="715.72491"
+             y="288.43713"
+             id="tspan5534">except TMVA</tspan></text>
       </g>
       <g
          id="LineCollection_5"
