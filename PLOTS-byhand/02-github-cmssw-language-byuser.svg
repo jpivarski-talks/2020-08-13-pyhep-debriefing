@@ -15,7 +15,7 @@
    viewBox="0 0 659.9964 334.51624"
    width="659.9964pt"
    id="svg1288"
-   sodipodi:docname="github-cmssw-language-byuser.svg"
+   sodipodi:docname="02-github-cmssw-language-byuser.svg"
    inkscape:version="0.92.1 r15371">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -32,13 +32,13 @@
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-others="false"
-     inkscape:zoom="1.1588695"
-     inkscape:cx="512.21605"
-     inkscape:cy="233.47242"
+     inkscape:zoom="1.638889"
+     inkscape:cx="324.49266"
+     inkscape:cy="228.37856"
      inkscape:window-x="210"
      inkscape:window-y="102"
      inkscape:window-maximized="1"
-     inkscape:current-layer="axes_1"
+     inkscape:current-layer="svg1288"
      fit-margin-top="5"
      fit-margin-left="5"
      fit-margin-right="5"
@@ -56,7 +56,7 @@
             <dc:title>Matplotlib v3.3.0, https://matplotlib.org/</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4727,9 +4727,10 @@
        y="246.30313">Jupyter</tspan></text>
   <path
      style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#1f77b4;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 654.95413,227.67865 C 570.31134,232.45916 486.1287,216.11111 404.35711,195.96166 342.91743,175.75118 284.56512,136.35834 217.37498,141.46856 189.8144,143.71628 166.86064,160.35129 145.5327,176.29744 113.95757,194.9944 78.42197,209.03872 41.276165,209.37356"
+     d="m 654.95413,227.67865 c -84.64279,4.78051 -169.537,-8.87258 -250.59702,-31.71699 -62.25347,-17.54433 -122.99538,-46.78976 -186.98213,-54.4931"
      id="path10379"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csc" />
   <path
      style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#2ca02c;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="m 267.34396,296.78034 c 41.53328,4.02804 81.02642,-12.81839 122.55185,-13.39635 36.40402,-0.50667 71.62643,-13.25977 107.21712,-19.23021 61.07633,-10.24573 98.09282,-8.17742 155.09544,-7.64463"
@@ -4738,8 +4739,8 @@
      sodipodi:nodetypes="cssc" />
   <path
      style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff7f0e;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 653.12362,203.4244 c -75.99387,-1.47546 -165.68068,5.50443 -268.08987,15.50043 -52.41462,5.11611 -104.95614,6.99989 -156.21587,-3.19408 -30.91349,-6.19563 -60.57025,-17.55655 -92.20856,-19.78953 -32.26241,-4.80559 -64.35878,-10.70285 -96.706038,-14.94054"
+     d="m 653.12362,203.4244 c -75.99387,-1.47546 -165.68068,5.50443 -268.08987,15.50043 -52.41462,5.11611 -104.95614,6.99989 -156.21587,-3.19408 -2.62911,-0.52692 -5.24912,-1.0912 -7.86204,-1.68405"
      id="path10436"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="csccc" />
+     sodipodi:nodetypes="cscc" />
 </svg>

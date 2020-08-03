@@ -15,7 +15,7 @@
    viewBox="0 0 672.01068 334.51624"
    width="672.01068pt"
    id="svg1252"
-   sodipodi:docname="github-cmssw-language.svg"
+   sodipodi:docname="01-github-cmssw-language.svg"
    inkscape:version="0.92.1 r15371">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -32,8 +32,8 @@
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:zoom="1.6388889"
-     inkscape:cx="513.94011"
-     inkscape:cy="178.94744"
+     inkscape:cx="516.38079"
+     inkscape:cy="176.50676"
      inkscape:window-x="210"
      inkscape:window-y="102"
      inkscape:window-maximized="1"
@@ -55,7 +55,7 @@
             <dc:title>Matplotlib v3.3.0, https://matplotlib.org/</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4534,16 +4534,16 @@
       </g>
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff7f0e;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 89.311185,339.4529 c 42.985095,-6.78186 87.078955,7.56871 127.304065,-21.74095 18.91967,-13.78564 7.32423,-210.73417 19.92148,-211.08649 14.28066,56.44953 -5.29432,147.33811 84.78435,126.06399 137.70207,-46.84026 264.9778,-99.11453 390.90323,-102.60008"
+         d="M 272.80056,239.25612 C 362.43711,244.63631 577.59112,135.7303 712.22431,130.08937"
          id="path5748"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csccc" />
+         sodipodi:nodetypes="cc" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#1f77b4;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 91.899911,340.74727 c 37.623059,-6.65108 81.276099,13.22504 112.817119,-12.34956 45.52533,-36.91358 1.11256,-165.09445 58.7492,-188.19152 113.53245,-39.45962 237.32905,15.85659 338.224,36.42746 33.13915,8.76191 75.28052,20.88744 110.21049,18.17398"
+         d="m 272.80222,127.38909 c 111.20587,-17.98523 230.48213,29.18117 328.88801,49.24456 33.13915,8.76191 75.28052,20.88744 110.21049,18.17398"
          id="path5777"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csccc" />
+         sodipodi:nodetypes="ccc" />
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#2ca02c;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 259.52017,344.63036 c 114.80958,4.39364 224.11155,-47.01021 322.22336,-82.97743 44.56919,-9.41202 81.53937,-18.07515 128.86283,-17.65946"

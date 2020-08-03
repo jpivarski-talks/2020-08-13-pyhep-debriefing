@@ -15,7 +15,7 @@
    viewBox="0 0 667.85724 337.73889"
    width="667.85724pt"
    id="svg2051"
-   sodipodi:docname="github-machine-learning.svg"
+   sodipodi:docname="04-github-machine-learning.svg"
    inkscape:version="0.92.1 r15371">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -32,9 +32,9 @@
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-others="false"
-     inkscape:zoom="1.6388889"
-     inkscape:cx="371.21069"
-     inkscape:cy="262.75438"
+     inkscape:zoom="2.3177389"
+     inkscape:cx="503.11702"
+     inkscape:cy="134.74756"
      inkscape:window-x="210"
      inkscape:window-y="102"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
             <dc:title>Matplotlib v3.3.0, https://matplotlib.org/</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2145,9 +2145,10 @@
            inkscape:connector-curvature="0" />
         <path
            style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#1f77b4;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 214.62712,345.05085 c 22.5797,-11.97684 55.2176,-43.36014 76.96527,-13.676 32.60551,32.68003 37.23125,-42.87307 66.96577,-10.52048 34.96194,3.68353 68.56754,-22.63849 84.86219,-53.8106 15.30727,-37.18088 49.52556,-62.223 80.31644,-86.00395 39.39893,-21.21353 77.35146,-49.07059 121.96304,-57.62036 21.43216,-2.33712 42.97112,-3.88313 64.53746,-3.97878"
+           d="m 270.33869,318.99066 c 59.78412,12.99559 142.3285,10.11093 173.08166,-51.94689 17.85365,-36.02746 47.56321,-65.00782 80.31644,-86.00395 37.67128,-24.1488 77.14443,-50.2323 121.96304,-57.62036 21.27213,-3.50658 42.97112,-3.88313 64.53746,-3.97878"
            id="path6552"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssc" />
       </g>
       <g
          id="LineCollection_2"
@@ -2844,10 +2845,10 @@
            inkscape:connector-curvature="0" />
         <path
            style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#9467bd;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 162.45763,345.9661 c 36.99784,-25.65655 77.01801,-74.31932 124.85766,-65.42298 33.73247,25.74388 77.42706,37.73308 117.15287,17.52153 44.03013,-37.2869 94.394,-22.58664 145.88142,-15.87278 59.09974,8.31533 99.42308,-7.68095 159.88771,-6.70035"
+           d="m 270.01983,276.82762 c 5.73009,0.0954 11.49839,1.25373 17.29546,3.7155 39.05795,16.58625 77.42706,37.73308 117.15287,17.52153 44.03013,-37.2869 94.394,-22.58664 145.88142,-15.87278 59.09974,8.31533 99.42308,-7.68095 159.88771,-6.70035"
            id="path6661"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
+           sodipodi:nodetypes="csccc" />
       </g>
       <g
          id="LineCollection_6"
@@ -3064,10 +3065,10 @@
            inkscape:connector-curvature="0" />
         <path
            style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#8c564b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 146.89831,344.1356 c 33.18305,3.4215 61.37416,-23.53176 69.29661,-54.13443 7.86878,-25.87945 21.52311,-56.1122 49.48891,-64.64774 22.97903,-4.50636 35.83486,20.12115 56.49599,25.22746 23.9995,11.20801 52.70887,14.2131 77.10012,2.47598 65.06668,-17.99844 130.97409,12.51929 196.60076,3.22204 37.03586,0.37577 81.05505,-2.01805 113.58013,-1.40837"
+           d="m 270.3495,224.81921 c 43.92096,14.69349 72.84823,54.96847 120.19348,40.53413 76.68375,-29.70796 139.71105,0.22282 205.33772,-9.07443 37.03586,0.37577 81.05505,-2.01805 113.58013,-1.40837"
            id="path6687"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccc" />
+           sodipodi:nodetypes="cccc" />
       </g>
       <g
          id="LineCollection_7"
