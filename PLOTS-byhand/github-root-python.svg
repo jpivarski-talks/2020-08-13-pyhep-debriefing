@@ -33,8 +33,8 @@
      inkscape:snap-nodes="false"
      inkscape:snap-others="false"
      inkscape:zoom="1.6388889"
-     inkscape:cx="495.73881"
-     inkscape:cy="227.74559"
+     inkscape:cx="352.0439"
+     inkscape:cy="225.30491"
      inkscape:window-x="210"
      inkscape:window-y="102"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
             <dc:title>Matplotlib v3.3.0, https://matplotlib.org/</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5328,7 +5328,7 @@
       </g>
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff7f0e;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 135,346.42372 c 39.06468,-0.0322 94.03063,-11.52556 96.27725,-60.83235 2.26575,-49.72661 56.2418,-35.91179 90.03471,-30.4515 47.78765,7.72158 91.36255,-8.3713 138.0396,-18.33338 41.74447,-8.90934 80.99318,18.21681 126.49464,9.02285 27.32058,-5.52036 50.98939,-3.67365 81.60296,-6.71917"
+         d="m 135,346.42372 c 39.06468,-0.0322 85.50087,-9.00267 88.03996,-32.00184 8.76077,-79.35539 7.55571,-146.65754 28.95726,-47.48382 8.24513,38.2075 83.3057,-28.72355 151.98146,-9.99598 54.11894,14.75799 68.32925,-38.57366 106.62587,-29.84502 56.66905,12.91613 107.8052,17.32996 159.13275,12.47074"
          id="path12608"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cssssc" />
